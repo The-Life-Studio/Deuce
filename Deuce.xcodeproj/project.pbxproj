@@ -180,7 +180,7 @@
 				6D1972072AA6749800464B81 /* HomeView.swift */,
 			);
 			path = Views;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		6D1971E52AA6734100464B81 /* ViewModels */ = {
 			isa = PBXGroup;
